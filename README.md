@@ -11,3 +11,5 @@ go install github.com/Akagi201/alertme@latest
 ```Bash
 alertme cargo build --release
 ```
+
+![](assets/alertme.png)
