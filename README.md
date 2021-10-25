@@ -1,13 +1,13 @@
-# notifyme
+# alertme
 
 ## Install
 
 ```Go
-go install github.com/Akagi201/notifyme@latest
+go install github.com/Akagi201/alertme@latest
 ```
 
 ## Usage
 
 ```Bash
-notifyme cargo build --release
+alertme cargo build --release
 ```

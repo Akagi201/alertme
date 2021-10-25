@@ -1,4 +1,4 @@
-module github.com/Akagi201/notifyme
+module github.com/Akagi201/alertme
 
 go 1.17
 
